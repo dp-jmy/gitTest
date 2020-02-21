@@ -6,5 +6,6 @@ public class gitTest {
 		System.out.println("sdfsdf");
 		System.out.println("허브에서 수정");
 		System.out.println("허브에서 수정2565656565");
+		System.out.println("왜 안되는가");
 	}
 }
